@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/Sampletry/static/css/main.073c9b0a.css",
-    "main.js": "/Sampletry/static/js/main.eecf8c90.js",
+    "main.css": "/Sampletry/static/css/main.af4f21be.css",
+    "main.js": "/Sampletry/static/js/main.9ca9ac19.js",
     "static/js/787.f8e7bb09.chunk.js": "/Sampletry/static/js/787.f8e7bb09.chunk.js",
-    "static/media/logo.svg": "/Sampletry/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/city_lights.jpg": "/Sampletry/static/media/city_lights.eda85de634c675f0314a.jpg",
+    "static/media/Me.jpg": "/Sampletry/static/media/Me.c8b07293fd1b94bb8e4e.jpg",
+    "static/media/Whiteseed-live.png": "/Sampletry/static/media/Whiteseed-live.c23f3ff3389d5f45cbbc.png",
+    "static/media/Online_Journal.png": "/Sampletry/static/media/Online_Journal.23bda4115c365d4ef9c0.png",
+    "static/media/Forportfoliorb.png": "/Sampletry/static/media/Forportfoliorb.7e25dfaf94dfd89cf547.png",
+    "static/media/windowsscreen.png": "/Sampletry/static/media/windowsscreen.d407ffb04e7b4bf28870.png",
+    "static/media/instagramicon.png": "/Sampletry/static/media/instagramicon.0040b8228c6f43bf43a1.png",
+    "static/media/pwkeeperone.png": "/Sampletry/static/media/pwkeeperone.bdea9bc0dad4fffa47ac.png",
+    "static/media/pwkeeperoneone.png": "/Sampletry/static/media/pwkeeperoneone.1a46f47b95357eac2008.png",
     "index.html": "/Sampletry/index.html",
-    "main.073c9b0a.css.map": "/Sampletry/static/css/main.073c9b0a.css.map",
-    "main.eecf8c90.js.map": "/Sampletry/static/js/main.eecf8c90.js.map",
+    "main.af4f21be.css.map": "/Sampletry/static/css/main.af4f21be.css.map",
+    "main.9ca9ac19.js.map": "/Sampletry/static/js/main.9ca9ac19.js.map",
     "787.f8e7bb09.chunk.js.map": "/Sampletry/static/js/787.f8e7bb09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.eecf8c90.js"
+    "static/css/main.af4f21be.css",
+    "static/js/main.9ca9ac19.js"
   ]
 }
