@@ -159,11 +159,11 @@ function App(Topic,Message, link, Title) {
                     <a href='https://whiteseed.live/' target="_blank" Style='color:green'> https://whiteseed.live/</a>
                     </p></Jump>
                 </div>
-                <div class="image revealr" Style=' background-color:gray; width:2800px;'>
+                <div class="image revealr" Style=' background-color:gray; width:2800px; display:flex'>
                 {/* <iframe src="https://firebase-auth-two-new-jmarkzcod8r.vercel.app/login" title="description" Style='width:500px; height:300px '  Scrolling='yes' frameborder='0'>
                   </iframe>  */}
                    <a href='https://whiteseed.live/' target="_blank">
-                  <img class='whiteseed-img' src={Whiteseed} alt="" Style='width:35em'/>
+                  <img class='whiteseed-img' src={Whiteseed} alt="" Style='width:35em; height:100%'/>
                   </a>
                 </div>
                
@@ -174,11 +174,11 @@ function App(Topic,Message, link, Title) {
         <div class="container" Style='/* background-color:violet; */ display:flex ; padding-inline:150px '>
             {/* <h3 class="section-title " >Lorem Ipsum </h3> */}
             {/* <div class="content" Style=''> */}
-            <div class="image revealx" Style=' background-color:gray; width:2800px;'>
+            <div class="image revealx" Style=' background-color:gray; width:2800px; display:flex'>
                 {/* <iframe src="https://firebase-auth-two-new-jmarkzcod8r.vercel.app/login" title="description" Style='width:500px; height:300px '  Scrolling='yes' frameborder='0'>
                   </iframe>  */}
                   <a href="https://firebase-auth-two-new-jmarkzcod8r.vercel.app/" target="_blank">
-                  <img class='online-journal-img ' src={Online_Journal} alt="" Style='width:35em; '/>
+                  <img class='online-journal-img ' src={Online_Journal} alt="" Style='width:35em;height:100%'/>
                   </a>
                 </div>
             <div class="info" Style='margin-left:30px;align-items:center ; display:flex ; justify-content:center;flex-direction:column; height:'>
