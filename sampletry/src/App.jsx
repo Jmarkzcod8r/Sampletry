@@ -1,5 +1,8 @@
 import React from 'react';
 import './App.css';
+// import Pythonlogo from './connect_logos/pythonlogo.png'
+// import './slider.scss'
+import Slider from './Slider';
 // import Header from './Header'
 // import { Helmet } from "react-helmet";
 // import Hexagon from './Hexagon';
@@ -7,6 +10,7 @@ import './App.css';
 import Jump from 'react-reveal/Jump';
 import Fade from 'react-reveal/Fade';
 import Zoom from 'react-reveal/Zoom';
+
 
 import {LightSpeed, HeadShake, Jello, Pulse, RubberBand, Shake, Spin,Swing,Tada,Wobble } from 'react-reveal';
 
@@ -102,7 +106,7 @@ function App(Topic,Message, link, Title) {
       <Niche Topic = "Projects" link="#Portfolio_container"/>
       <Niche Topic = "Connect" link="#ConnectTitle_headcontainer"/>
           
-      </div>
+    </div>
       <div className="TitleforMe_container">
               <TitleforMe/> 
       </div>
@@ -135,22 +139,69 @@ function App(Topic,Message, link, Title) {
      
       <div class="TerminalUbuntu_container reveal">
       <TerminalUbuntu/>
-      {/* <Macbookproject/> */}
       </div>
-      {/* <LightSpeed> */}
-      
-      <div id="QualificationsTitle_container" class="QualificationsTitle_container revealx ">
+      {/* <div><Slider/></div> */}
+      <section class='section-slide' Style=' position:relative; top:56rem; height:8rem;padding:1rem '>
+      <Slider/>
+      {/* <div class="slider">
+	<div class="slide-track">
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="100" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+		</div>
+		<div class="slide">
+			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+		</div>
+	</div>
+</div>     */}
+
+        </section>
      
+      <div id="QualificationsTitle_container" class="QualificationsTitle_container revealx ">
      <LightSpeed>
       <Qualifications/>
       </LightSpeed>
       </div>
-      {/* </LightSpeed> */}
-      <div class="Projects " Style='z-index:1000;  top:108rem;'> 
+     
+      <div class="Projects " Style='z-index:1000;  top:100rem;'> 
       <section class="sec-03 " Style='margin-top:0px; '>
-        <div class="container" Style='/* background-color:violet; */ display:flex ; padding-inline:150px '>
-            {/* <h3 class="section-title " >Lorem Ipsum </h3> */}
-            {/* <div class="content" Style=''> */}
+        <div class="container" Style=' display:flex ; padding-inline:150px '>
+      
             <div class="info" Style='margin-right:30px;align-items:center ; display:flex ; justify-content:center;flex-direction:column; height:100%'>
                     <Jump>
                     <h2 Style='color:  	#FF4500' class="info-title">Bible Quiz Web App</h2>
@@ -160,23 +211,20 @@ function App(Topic,Message, link, Title) {
                     </p></Jump>
                 </div>
                 <div class="image revealr" Style=' background-color:gray; width:2800px; display:flex'>
-                {/* <iframe src="https://firebase-auth-two-new-jmarkzcod8r.vercel.app/login" title="description" Style='width:500px; height:300px '  Scrolling='yes' frameborder='0'>
-                  </iframe>  */}
+              
                    <a href='https://whiteseed.live/' target="_blank">
                   <img class='whiteseed-img' src={Whiteseed} alt="" Style='width:35em; height:100%'/>
                   </a>
                 </div>
                
-              {/* </div> */}
+           
           </div>
         </section>
         <section class="sec-03  " Style='margin-top:120px; '>
-        <div class="container" Style='/* background-color:violet; */ display:flex ; padding-inline:150px '>
-            {/* <h3 class="section-title " >Lorem Ipsum </h3> */}
-            {/* <div class="content" Style=''> */}
+        <div class="container" Style='display:flex ; padding-inline:150px '>
+           
             <div class="image revealx" Style=' background-color:gray; width:2800px; display:flex'>
-                {/* <iframe src="https://firebase-auth-two-new-jmarkzcod8r.vercel.app/login" title="description" Style='width:500px; height:300px '  Scrolling='yes' frameborder='0'>
-                  </iframe>  */}
+             
                   <a href="https://firebase-auth-two-new-jmarkzcod8r.vercel.app/" target="_blank">
                   <img class='online-journal-img ' src={Online_Journal} alt="" Style='width:35em;height:100%'/>
                   </a>
@@ -191,7 +239,7 @@ function App(Topic,Message, link, Title) {
                 </div>
              
                
-              {/* </div> */}
+         
           </div>
         </section>
       

@@ -1,7 +1,7 @@
 import React from 'react';
 import './Connecticons.scss';
 // import codepenlogo from './connect_logos/codepenlogo.png';
-import githubicon from './connect_logos/githubicon.png';
+import githubicon from './connect_logos/Github.png';
 import linkedinicon from './connect_logos/Linkedinicon.png';
 import facebookicon from './connect_logos/facebookicon.png';
 import instagramicon from './connect_logos/instagramicon.png';

@@ -1,0 +1,115 @@
+.slidebody {
+	// align-items: center;
+	// background: pink;
+	display: flex;
+	height: 20vh;
+	// justify-content: center;
+}
+
+@mixin white-gradient {
+	// background: linear-gradient(to right,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+	opacity:0.7
+}
+
+$animationSpeed: 30s;
+
+// Animation
+@keyframes carousel {
+	0% { transform: translateX(0); }
+	100% { transform: translateX(calc(-250px * 7))}
+}
+
+
+// Styling
+.slider {
+	// background: white;
+	box-shadow: 0 10px 20px -5px rgba(0, 0, 0, .125);
+	// opacity:0.9;
+	height: 100px;
+	display:flex;
+	margin: auto;
+	overflow: hidden;
+	// overflow-y:visible important;
+	// overflow-y:visible;
+	position: relative;
+	width: 960px;
+	z-index: 0;
+	
+	&::before,
+	&::after {
+		@include white-gradient;
+		content: "";
+		height: 100px;
+		position: absolute;
+		width: 200px;
+		z-index: 2;
+	}
+	
+	&::after {
+		right: 0;
+		top: 0;
+		// transform: rotateZ(180deg);
+	}
+
+	&::before {
+		left: 0;
+		top: 0;
+	}
+	
+	.slide-track {
+		animation: carousel $animationSpeed linear infinite;
+		display: flex;
+		width: calc(250px * 14);
+		z-index:1
+	}
+	
+	.slide {
+		height: 100px;
+		width: 150px;
+		padding:2px;
+		display:flex;
+		justify-content: center;
+		align-items: center;
+		// overflow:visible;
+		// object-fit:10px;
+		// margin-right:10px;
+		// position:absolute
+	}
+
+	// .slide:nth-child(1){
+	// 	background-color: pink;
+	// }
+}
+
+.tooltip-slide {
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted black;
+	z-index: 100000;
+	// overflow:visible;
+  }
+  
+  .tooltip-slide .tooltiptext-slide {
+	visibility: hidden;
+	width: 120px;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 5px 0;
+	
+	/* Position the tooltip */
+	position: absolute;
+	display:flex;
+	z-index: 100000;
+	bottom: 100%;
+	left: 50%;
+	margin-left: -60px;
+  }
+  
+  .tooltip-slide:hover .tooltiptext-slide{
+	z-index: 100000;
+	position:absolute;
+	visibility: visible;
+	display:block
+  }

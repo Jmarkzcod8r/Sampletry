@@ -41,7 +41,7 @@ function TitleforMe() {
                   <div class='cta-link' href='#'>SOFTWARE PROGRAMMER</div>
                 </div>
                 <div class='master-container-scroller_item'>
-                  <div class='cta-link' href='#'>FRONT_END DEVELOPER</div>
+                  <div class='cta-link' href='#'>FRONT-END DEVELOPER</div>
                 </div>
                 {/* <div class='master-container-scroller_item'>
                   <div class='cta-link' href='#'>WEB DEVELOPER</div>
