@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Sampletry/static/css/main.78213fba.css",
-    "main.js": "/Sampletry/static/js/main.1816b2bd.js",
+    "main.css": "/Sampletry/static/css/main.c9146c4b.css",
+    "main.js": "/Sampletry/static/js/main.6ce048ef.js",
     "static/js/787.f8e7bb09.chunk.js": "/Sampletry/static/js/787.f8e7bb09.chunk.js",
     "static/media/city_lights.jpg": "/Sampletry/static/media/city_lights.eda85de634c675f0314a.jpg",
     "static/media/Me.jpg": "/Sampletry/static/media/Me.c8b07293fd1b94bb8e4e.jpg",
     "static/media/Whiteseed-live.png": "/Sampletry/static/media/Whiteseed-live.c23f3ff3389d5f45cbbc.png",
+    "static/media/RedBubbleGUI.png": "/Sampletry/static/media/RedBubbleGUI.bf635c50c16cdc7d0dba.png",
     "static/media/Online_Journal.png": "/Sampletry/static/media/Online_Journal.23bda4115c365d4ef9c0.png",
     "static/media/CSSlogo.png": "/Sampletry/static/media/CSSlogo.345b52a1a2112a714748.png",
     "static/media/HTMLlogo.png": "/Sampletry/static/media/HTMLlogo.e3ee2e2f0e69368d972f.png",
@@ -24,12 +25,12 @@
     "static/media/nextjs.png": "/Sampletry/static/media/nextjs.331efda6800a28298b1b.png",
     "static/media/pwkeeperoneone.png": "/Sampletry/static/media/pwkeeperoneone.1a46f47b95357eac2008.png",
     "index.html": "/Sampletry/index.html",
-    "main.78213fba.css.map": "/Sampletry/static/css/main.78213fba.css.map",
-    "main.1816b2bd.js.map": "/Sampletry/static/js/main.1816b2bd.js.map",
+    "main.c9146c4b.css.map": "/Sampletry/static/css/main.c9146c4b.css.map",
+    "main.6ce048ef.js.map": "/Sampletry/static/js/main.6ce048ef.js.map",
     "787.f8e7bb09.chunk.js.map": "/Sampletry/static/js/787.f8e7bb09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78213fba.css",
-    "static/js/main.1816b2bd.js"
+    "static/css/main.c9146c4b.css",
+    "static/js/main.6ce048ef.js"
   ]
 }
