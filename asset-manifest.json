@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sampletry/static/css/main.b4cd3286.css",
+    "main.css": "/Sampletry/static/css/main.5522d233.css",
     "main.js": "/Sampletry/static/js/main.f25b1514.js",
     "static/js/787.f8e7bb09.chunk.js": "/Sampletry/static/js/787.f8e7bb09.chunk.js",
     "static/media/city_lights.jpg": "/Sampletry/static/media/city_lights.eda85de634c675f0314a.jpg",
@@ -24,12 +24,12 @@
     "static/media/pythonlogo.png": "/Sampletry/static/media/pythonlogo.461c1effab163e472fc7.png",
     "static/media/nextjs.png": "/Sampletry/static/media/nextjs.331efda6800a28298b1b.png",
     "index.html": "/Sampletry/index.html",
-    "main.b4cd3286.css.map": "/Sampletry/static/css/main.b4cd3286.css.map",
+    "main.5522d233.css.map": "/Sampletry/static/css/main.5522d233.css.map",
     "main.f25b1514.js.map": "/Sampletry/static/js/main.f25b1514.js.map",
     "787.f8e7bb09.chunk.js.map": "/Sampletry/static/js/787.f8e7bb09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4cd3286.css",
+    "static/css/main.5522d233.css",
     "static/js/main.f25b1514.js"
   ]
 }
