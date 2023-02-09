@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Sampletry/static/css/main.c9146c4b.css",
-    "main.js": "/Sampletry/static/js/main.71a12865.js",
+    "main.css": "/Sampletry/static/css/main.b662369a.css",
+    "main.js": "/Sampletry/static/js/main.0d27e85e.js",
     "static/js/787.f8e7bb09.chunk.js": "/Sampletry/static/js/787.f8e7bb09.chunk.js",
     "static/media/city_lights.jpg": "/Sampletry/static/media/city_lights.eda85de634c675f0314a.jpg",
     "static/media/Me.jpg": "/Sampletry/static/media/Me.c8b07293fd1b94bb8e4e.jpg",
+    "static/media/collection.png": "/Sampletry/static/media/collection.e9d147a8e41a8e7a208f.png",
     "static/media/Whiteseed-live.png": "/Sampletry/static/media/Whiteseed-live.c23f3ff3389d5f45cbbc.png",
     "static/media/RedBubbleGUI.png": "/Sampletry/static/media/RedBubbleGUI.bf635c50c16cdc7d0dba.png",
     "static/media/Online_Journal.png": "/Sampletry/static/media/Online_Journal.23bda4115c365d4ef9c0.png",
@@ -13,24 +14,21 @@
     "static/media/JSlogo.png": "/Sampletry/static/media/JSlogo.029ea8c983e065cf5a75.png",
     "static/media/Firebaselogo.png": "/Sampletry/static/media/Firebaselogo.bff5748e0ad72bf0c427.png",
     "static/media/Mongodblogo.png": "/Sampletry/static/media/Mongodblogo.1df44ece8cf851cecf69.png",
-    "static/media/Forportfoliorb.png": "/Sampletry/static/media/Forportfoliorb.7e25dfaf94dfd89cf547.png",
     "static/media/Reactbootstraplogo.png": "/Sampletry/static/media/Reactbootstraplogo.d7a792fb89936a6446d3.png",
     "static/media/Reactlogo.png": "/Sampletry/static/media/Reactlogo.e90a6f7c0d83b2748879.png",
     "static/media/windowsscreen.png": "/Sampletry/static/media/windowsscreen.d407ffb04e7b4bf28870.png",
     "static/media/Tailwindlogo.png": "/Sampletry/static/media/Tailwindlogo.e497d6ffeb32cdd2e84f.png",
     "static/media/instagramicon.png": "/Sampletry/static/media/instagramicon.0040b8228c6f43bf43a1.png",
-    "static/media/pwkeeperone.png": "/Sampletry/static/media/pwkeeperone.bdea9bc0dad4fffa47ac.png",
     "static/media/tts.png": "/Sampletry/static/media/tts.c6eafea7441a8f48c9cf.png",
     "static/media/pythonlogo.png": "/Sampletry/static/media/pythonlogo.461c1effab163e472fc7.png",
     "static/media/nextjs.png": "/Sampletry/static/media/nextjs.331efda6800a28298b1b.png",
-    "static/media/pwkeeperoneone.png": "/Sampletry/static/media/pwkeeperoneone.1a46f47b95357eac2008.png",
     "index.html": "/Sampletry/index.html",
-    "main.c9146c4b.css.map": "/Sampletry/static/css/main.c9146c4b.css.map",
-    "main.71a12865.js.map": "/Sampletry/static/js/main.71a12865.js.map",
+    "main.b662369a.css.map": "/Sampletry/static/css/main.b662369a.css.map",
+    "main.0d27e85e.js.map": "/Sampletry/static/js/main.0d27e85e.js.map",
     "787.f8e7bb09.chunk.js.map": "/Sampletry/static/js/787.f8e7bb09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9146c4b.css",
-    "static/js/main.71a12865.js"
+    "static/css/main.b662369a.css",
+    "static/js/main.0d27e85e.js"
   ]
 }
