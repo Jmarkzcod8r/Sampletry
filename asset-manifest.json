@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Sampletry/static/css/main.8c872041.css",
-    "main.js": "/Sampletry/static/js/main.6516f153.js",
+    "main.js": "/Sampletry/static/js/main.140b6fe7.js",
     "static/js/787.f8e7bb09.chunk.js": "/Sampletry/static/js/787.f8e7bb09.chunk.js",
     "static/media/city_lights.jpg": "/Sampletry/static/media/city_lights.eda85de634c675f0314a.jpg",
     "static/media/Me.jpg": "/Sampletry/static/media/Me.c8b07293fd1b94bb8e4e.jpg",
     "static/media/collection.png": "/Sampletry/static/media/collection.e9d147a8e41a8e7a208f.png",
+    "static/media/Data-Profiling.png": "/Sampletry/static/media/Data-Profiling.b6ad6bc2fa453fb45d3d.png",
     "static/media/Whiteseed-live.png": "/Sampletry/static/media/Whiteseed-live.c23f3ff3389d5f45cbbc.png",
     "static/media/RedBubbleGUI.png": "/Sampletry/static/media/RedBubbleGUI.bf635c50c16cdc7d0dba.png",
     "static/media/sheetchart.png": "/Sampletry/static/media/sheetchart.34fcf551c55fd766c521.png",
@@ -13,6 +14,7 @@
     "static/media/CSSlogo.png": "/Sampletry/static/media/CSSlogo.345b52a1a2112a714748.png",
     "static/media/HTMLlogo.png": "/Sampletry/static/media/HTMLlogo.e3ee2e2f0e69368d972f.png",
     "static/media/JSlogo.png": "/Sampletry/static/media/JSlogo.029ea8c983e065cf5a75.png",
+    "static/media/Django_photoviewer.png": "/Sampletry/static/media/Django_photoviewer.7e340152903c12c33885.png",
     "static/media/Firebaselogo.png": "/Sampletry/static/media/Firebaselogo.bff5748e0ad72bf0c427.png",
     "static/media/Mongodblogo.png": "/Sampletry/static/media/Mongodblogo.1df44ece8cf851cecf69.png",
     "static/media/Reactbootstraplogo.png": "/Sampletry/static/media/Reactbootstraplogo.d7a792fb89936a6446d3.png",
@@ -25,11 +27,11 @@
     "static/media/nextjs.png": "/Sampletry/static/media/nextjs.331efda6800a28298b1b.png",
     "index.html": "/Sampletry/index.html",
     "main.8c872041.css.map": "/Sampletry/static/css/main.8c872041.css.map",
-    "main.6516f153.js.map": "/Sampletry/static/js/main.6516f153.js.map",
+    "main.140b6fe7.js.map": "/Sampletry/static/js/main.140b6fe7.js.map",
     "787.f8e7bb09.chunk.js.map": "/Sampletry/static/js/787.f8e7bb09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c872041.css",
-    "static/js/main.6516f153.js"
+    "static/js/main.140b6fe7.js"
   ]
 }
